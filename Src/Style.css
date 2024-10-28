@@ -1,6 +1,4 @@
-
-
-
+/* Style the galery */
 
 #Galery h2 {
     grid-column: span 4;
@@ -16,3 +14,14 @@
     padding: 20px;
     justify-items: center;
 }
+
+#History h3, #Economic-impact h3, #Aspect h3{
+    padding-left: 30px;
+}
+
+#History p, #Economic-impact p, #Aspect p {
+    padding-left: 45px;
+}
+
+
+
