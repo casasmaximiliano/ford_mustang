@@ -1,0 +1,47 @@
+/* Header */
+
+.hero-section {
+    background-color: #3f3f3f;
+    text-align: center;
+    color: #fff;
+}
+
+header p {
+    margin-bottom: 15px;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    list-style-type: none;
+    box-sizing: content-box;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    padding: 8px 12px;
+}
+
+/* Body */
+
+body {
+    background-color: #dadada;
+    background-image: url('ruta/de/tu/imagen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Footer */
+
+footer p {
+    background-color: #3f3f3f;
+    text-align: center;
+    color : #fff;
+}
